@@ -4,7 +4,7 @@ Tags: access, admin, Loginizer, login, logs, ban ip, failed login, ip, whitelist
 Requires at least: 3.0
 Tested up to: 5.5.1
 Requires PHP: 5.5
-Stable tag: 1.6.3
+Stable tag: 1.6.4
 License: LGPLv2.1
 License URI: http://www.gnu.org/licenses/lgpl-2.1.html
 
@@ -77,7 +77,7 @@ That's it. You're done!
 
 == Changelog ==
 
-= 1.6.3 =
+= 1.6.4 =
 * [Fix] Fixed a PHP Notice that was caused by a change released yesterday. 
 
 = 1.6.2 =

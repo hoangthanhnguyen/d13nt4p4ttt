@@ -14,3 +14,9 @@ RewriteRule . /index.php [L]
 </IfModule>
 
 # END WordPress
+# BEGIN DS-XML-RPC-API
+# The directives (lines) between "BEGIN DS-XML-RPC-API" and "END DS-XML-RPC-API" are
+# dynamically generated, and should only be modified via WordPress filters.
+# Any changes to the directives between these markers will be overwritten.
+
+# END DS-XML-RPC-API
